@@ -1,6 +1,4 @@
 [TehSongXuan_Polymer_Tg_Project1.html](https://github.com/user-attachments/files/31931429/TehSongXuan_Polymer_Tg_Project1.html)
-# Polymer-Tg-Prediction-and-Polymer-Family-Generalisation
-Predicting polymer glass-transition temperature using RDKit and machine learning, with random versus polymer-family holdout validation and analysis of generalisation limits.
 # Polymer Glass-Transition Temperature Prediction and Polymer-Family Generalisation
 
 ### A Materials-Informatics Machine Learning Workflow for Data Curation, Molecular Representation and Chemistry-Aware Validation
@@ -397,7 +395,7 @@ Dataset redistribution remains subject to the source's applicable terms. Inclusi
 
 The study follows the requested scientific direction: use polymer-property data, generate RDKit descriptors, predict $T_g$, compare random validation with polymer-class holdouts and explain the deterioration.
 
-The emphasis is on connecting materials knowledge with data curation, validation and workflow engineering. No assessment, endorsement or approval by Prof Loh is claimed; the direction provided before the study is distinct from a review of its completed results.
+The emphasis is on connecting materials knowledge with data curation, validation and workflow engineering. No assessment, endorsement or approval by an external reviewer is claimed; the direction provided before the study is distinct from a review of its completed results.
 
 ## Supporting Results and Downloadable Tables
 
@@ -435,7 +433,6 @@ Structural coverage and target-distribution shifts provide plausible, explorator
 The principal contribution is a traceable demonstration that **successful prediction within familiar chemical space does not establish reliable generalisation to unfamiliar polymer families**. Materials models need validation that reflects the chemistry they are expected to encounter.
 
 ## References
-
 
 1. Uddin, M. J., & Fan, J. (2024). [Interpretable Machine Learning Framework to Predict the Glass Transition Temperature of Polymers](https://doi.org/10.3390/polym16081049). *Polymers, 16*(8), 1049.
 2. [Tg SMILES | PID | PolyInfo Class — dataset page](https://www.kaggle.com/datasets/fridaycode/tg-smiles-pid-polyinfo-class). The provenance qualifications above apply to the local working copy.
