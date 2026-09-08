@@ -96,7 +96,7 @@ Fixed random-state settings support repeatable splitting and model fitting. The 
 
 ### 2. Data Quality Assessment
 
-The initial audit examines dataset dimensions, field completeness, record identifiers, SMILES uniqueness, parsing success and reported-$T_g$ distributions.
+The initial audit examines dataset dimensions, field completeness, record identifiers, SMILES uniqueness, parsing success and reported-$Tg$ distributions.
 
 Record identity is distinguished from structural identity: different PIDs can describe the same encoded repeat unit. Treating these records as independent structures could give repeated inputs additional weight and allow structural overlap across validation partitions.
 
