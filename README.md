@@ -1,3 +1,7 @@
+[similarity_error_correlations.xls](https://github.com/user-attachments/files/31931554/similarity_error_correlations.xls)
+[family_holdout_results.xls](https://github.com/user-attachments/files/31931553/family_holdout_results.xls)
+[family_factor_correlations.xls](https://github.com/user-attachments/files/31931552/family_factor_correlations.xls)
+[family_explanation_table.xls](https://github.com/user-attachments/files/31931551/family_explanation_table.xls)
 [TehSongXuan_Polymer_Tg_Project1.html](https://github.com/user-attachments/files/31931429/TehSongXuan_Polymer_Tg_Project1.html)
 # Polymer-Tg-Prediction-and-Polymer-Family-Generalisation
 Predicting polymer glass-transition temperature using RDKit and machine learning, with random versus polymer-family holdout validation and analysis of generalisation limits.
