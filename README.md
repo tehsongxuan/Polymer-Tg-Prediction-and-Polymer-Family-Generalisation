@@ -1,3 +1,4 @@
+[TehSongXuan_Polymer_Tg_Project1.html](https://github.com/user-attachments/files/31931429/TehSongXuan_Polymer_Tg_Project1.html)
 # Polymer-Tg-Prediction-and-Polymer-Family-Generalisation
 Predicting polymer glass-transition temperature using RDKit and machine learning, with random versus polymer-family holdout validation and analysis of generalisation limits.
 # Polymer Glass-Transition Temperature Prediction and Polymer-Family Generalisation
@@ -434,7 +435,7 @@ Structural coverage and target-distribution shifts provide plausible, explorator
 The principal contribution is a traceable demonstration that **successful prediction within familiar chemical space does not establish reliable generalisation to unfamiliar polymer families**. Materials models need validation that reflects the chemistry they are expected to encounter.
 
 ## References
-[TehSongXuan_Polymer_Tg_Project1.html](https://github.com/user-attachments/files/31931429/TehSongXuan_Polymer_Tg_Project1.html)
+
 
 1. Uddin, M. J., & Fan, J. (2024). [Interpretable Machine Learning Framework to Predict the Glass Transition Temperature of Polymers](https://doi.org/10.3390/polym16081049). *Polymers, 16*(8), 1049.
 2. [Tg SMILES | PID | PolyInfo Class — dataset page](https://www.kaggle.com/datasets/fridaycode/tg-smiles-pid-polyinfo-class). The provenance qualifications above apply to the local working copy.
